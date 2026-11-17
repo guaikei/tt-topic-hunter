@@ -6,6 +6,11 @@ name: tt-topic-hunter
 description: "TikTok 公开视频数据只读技能：关键词搜视频、博主作品、视频评论，输出 JSON，不登录不发布。触发词：TikTok、tiktok、抖音国际版、TikTok搜索、TikTok评论、TikTok博主。用户要查 TikTok 视频、评论、爆款选题、竞品监控、KOL 筛选或评论舆情时使用；抖音、小红书、快手、B站、微博、公众号不要用本技能。"
 license: MIT
 version: 1.1.2
+display_name: "TikTok视频洞察｜关键词搜索·博主作品·视频评论"
+display_name_en: "TikTok Video Insights"
+description_zh: "TikTok 公开视频数据只读技能：关键词搜索视频（支持相关度/最多点赞排序与时间窗筛选）、按主页或用户名拉取博主作品（最新/最热排序）、按视频链接或作品 ID 获取评论与互动数据，输出结构化 JSON，不登录不发布。适用于爆款选题、标题与标签规律分析、竞品监控、KOL 筛选、评论舆情与海外短视频分析。"
+description_en: "Read-only TikTok public video data skill: keyword video search (with relevance / most-liked sorting and time-window filtering), creator posts by profile link or username (latest / hottest sorting), and comments with engagement by video link or post ID, all returned as structured JSON, with no login and no posting; for viral topic discovery, title and hashtag pattern analysis, competitor monitoring, KOL screening, comment sentiment and overseas short-video analysis."
+author: "新郑市怪奇信息技术工作室"
 metadata:
   openclaw:
     emoji: "🎵"
